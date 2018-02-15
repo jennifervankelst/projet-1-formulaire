@@ -1,0 +1,84 @@
+*
+{
+    font-family: bellota;
+}
+
+body {
+    
+    background-color: #FFFFFF;
+    padding-bottom: 20px;
+    font-weight: 400;
+    background: url(background.jpeg) no-repeat center center fixed;
+}
+
+.main{
+    width: 95%;
+    max-width: 1000px;
+    min-width: 500px;
+    margin: auto;
+}
+    
+.logo {
+    text-align: center;   
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #15c5bd ;
+    border-top: 3px solid #15c5bd;
+    border-right: 5px solid #15c5bd;
+    border-left: 5px solid #15c5bd;  
+}
+
+.coordonnees {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #15c5bd;
+    border-top: 3px solid #15c5bd;
+    border-right: 5px solid #15c5bd;
+    border-left: 5px solid #15c5bd; 
+    display: block;
+    padding-left: 20px;
+    
+    
+}
+
+.message {
+    background-color: #FFFFFF;
+    border-bottom: 5px solid #15c5bd;
+    font-weight: 400;
+     border-top: 5px solid #15c5bd;
+     padding-left: 20px;
+    
+}
+
+textarea {
+    min-width: 200px;
+    min-height: 150px;
+    max-width: 400px;
+    max-height: 300px;
+    display: block;
+}
+
+input{
+    padding-bottom: 15px;
+}
+
+.bouton {
+    display: block;
+    margin: auto;
+    padding-right: 50px;
+    padding-left: 40px;
+   
+}
+
+.genre{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.radio{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+
